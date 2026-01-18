@@ -129,7 +129,7 @@
   font-size: var(--main-text_size);
 }
 
-.header_description{ 
+.header_description {
   align-self: center;
 }
 
@@ -329,7 +329,7 @@ a.text_link:focus {
   .street {
     grid-row: 3;
     grid-column-start: 2;
-    grid-column-end: 4; 
+    grid-column-end: 4;
   }
 
   .books {

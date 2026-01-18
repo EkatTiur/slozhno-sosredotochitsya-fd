@@ -4,6 +4,10 @@
   переключая тему
 */
 
+.theme-light .header_decoration {
+  display: none;
+}
+
 :root.theme-light {
   --bg_image: url("../images/cover-image-light.png");
   --bg_color: #FFF1F7;
@@ -40,8 +44,3 @@
     display: none;
   }
 }
-
-.theme-light .header_decoration {
-  display: none;
-}
-
