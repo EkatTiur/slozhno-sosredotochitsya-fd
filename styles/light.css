@@ -13,9 +13,9 @@
   --bg_color: #FFF1F7;
   --main-text_color: #353430;
   --header_title-color: #FFC2E6;
-  --h3_color: #353430;
-  --h3_bg-color: #FF8DCB;
-  --h2_color: #353430;
+  --card-title_color: #353430;
+  --card-title_bg-color: #FF8DCB;
+  --section-title_color: #353430;
   --accent_color: #FF8DCB;
   --hover_color: rgb(50 49 45 / 0.4);
   --decoration-color: #353430;
@@ -32,9 +32,9 @@
   --bg_color: #FFF1F7;
   --main-text_color: #353430;
   --header_title-color: #FFC2E6;
-  --h3_color: #353430;
-  --h3_bg-color: #FF8DCB;
-  --h2_color: #353430;
+  --card-title_color: #353430;
+  --card-title_bg-color: #FF8DCB;
+  --section-title_color: #353430;
   --accent_color: #FF8DCB;
   --hover_color: rgb(50 49 45 / 0.4);
   --decoration-color: #353430;
